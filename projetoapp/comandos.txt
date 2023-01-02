@@ -1,0 +1,8 @@
+//npx create-react-app projetoapp
+//npm install json-server
+//npm install react-icons
+//npm install react-router-dom
+//npm install uuid
+
+//npm install json-server, react-icons, react-router-dom, uuid;
+npm install react-icons
